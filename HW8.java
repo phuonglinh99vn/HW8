@@ -9,8 +9,7 @@ public class HW8 {
 			return x;
 		}
 		double left = 0;
-	    double right = x;
-	    double root = 0;
+	    double right = x; 
 	    while (left <= right){
 	    	double mid = (left + right)/2;
 	        if (mid*mid == x) {
