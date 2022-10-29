@@ -1,8 +1,5 @@
 package HW8;
-
-import java.util.Iterator;
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Fibo {
 	public static void main(String[] args) {
